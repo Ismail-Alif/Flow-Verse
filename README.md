@@ -19,15 +19,14 @@
 
 ## 📸 Screenshots
 
-> Replace the links below with actual images in your `/public/screenshots/` folder or via URLs
 
 | Flow-Verse Canvas UI |
 |----------------|
 [![Flow Canvas UI](https://www.reactflow.pro/screenshots/Flow-Verse.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse.PNG)
 
-| Flow-Verse Custom Nodes |Flow-Verse Panels|
+| Flow-Verse Custom Nodes | Flow-Verse Panels |
 |----------------|----------------|
-[![Flow Canvas UI](https://www.reactflow.pro/screenshots/Flow-Verse-Custom-Nodes.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse-Custom-Nodes.PNG)
+[![Flow Canvas UI](https://www.reactflow.pro/screenshots/Flow-Verse-Custom-Nodes.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse-Custom-Nodes.PNG) | [![Panels](https://www.reactflow.pro/screenshots/Flow-Verse-Panels.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse-Panels.PNG)
 
 ---
 
