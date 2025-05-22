@@ -23,7 +23,7 @@
 
 | Flow Canvas UI | Node Customization |
 |----------------|--------------------|
-| ![Flow Canvas](https://www.reactflow.pro/screenshots/Flow-Verse.PNG) | ![Node Settings](./public/screenshots/node-settings.png) |
+[![Flow Canvas UI](https://www.reactflow.pro/screenshots/Flow-Verse.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse.PNG)
 
 ---
 
