@@ -21,12 +21,12 @@
 
 > Replace the links below with actual images in your `/public/screenshots/` folder or via URLs
 
-| Flow Canvas UI |
+| Flow-Verse Canvas UI |
 |----------------|
 [![Flow Canvas UI](https://www.reactflow.pro/screenshots/Flow-Verse.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse.PNG)
 
-| Flow-Verse Custom Nodes |
-|----------------|
+| Flow-Verse Custom Nodes |Flow-Verse Panels|
+|----------------|----------------|
 [![Flow Canvas UI](https://www.reactflow.pro/screenshots/Flow-Verse-Custom-Nodes.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse-Custom-Nodes.PNG)
 
 ---
