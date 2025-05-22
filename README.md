@@ -42,7 +42,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/Flow-Verse.git
+git clone https://github.com/Ismail-Alif/Flow-Verse.git
 cd Flow-Verse
 npm install
 npm run dev
