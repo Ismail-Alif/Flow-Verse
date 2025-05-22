@@ -25,6 +25,10 @@
 |----------------|
 [![Flow Canvas UI](https://www.reactflow.pro/screenshots/Flow-Verse.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse.PNG)
 
+| Flow-Verse Custom Nodes |
+|----------------|
+[![Flow Canvas UI](https://www.reactflow.pro/screenshots/Flow-Verse-Custom-Nodes.PNG)](https://www.reactflow.pro/screenshots/Flow-Verse-Custom-Nodes.PNG)
+
 ---
 
 ## 🚀 Tech Stack
